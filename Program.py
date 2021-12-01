@@ -9,7 +9,7 @@ import cohere # cohere.ai api
 import cohere
 import time
 ##write a grad api prigvate key for cohere api usage
-cohere.key = "1HDueTvwSzVnHit5yRL5tM4H4xdVOM4OOz5Cr0um"
+cohere.key = ""
 # import time
 import os
 import sys
